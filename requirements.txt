@@ -1,0 +1,5 @@
+Flask == 2.0.2
+RPi.GPIO == 0.7.0
+pi-rc522 == 2.2.1
+pykka == 3.0.2
+PyGObject == 3.42.0
